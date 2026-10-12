@@ -1,0 +1,7 @@
+{
+  "name": "Textile Factory Audit System",
+  "description": "Sensor-driven regulatory compliance and audit reporting platform for MSME textile manufacturing factories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
